@@ -1,6 +1,6 @@
 # Gaussian-Mixture-Modeling for Iris & Car Evaluation Datasets
 
-DL 3
+DM 3
 
 **Part 1**
 

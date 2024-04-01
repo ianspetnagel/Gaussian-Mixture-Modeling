@@ -19,9 +19,10 @@ This GMM produced an accuracy of 96.66 (97%). Each color is a different flower a
 
 <img width="612" alt="dm33" src="https://github.com/ianspetnagel/Gaussian-Mixture-Modeling/assets/62821052/9db2e158-88a1-47b4-bb74-b8370883df71">
 
+
 **Part 2**
 
-The second part of this project uses the Car Evaluation Dataset. I again will compute the Gaussian Mixture Model. To do this I imported the text file into Excel to transform it into a .csv format. I then adjusted the data to be entirely numerical. Previously the data contained text attributes but I adjusted each category to have numerical rankings as listed in the parentheses below. Our “species” are the classes.
+The second part of this project (IanSpetnagelGMMcardataset) uses the Car Evaluation Dataset. I again will compute the Gaussian Mixture Model. To do this I imported the text file into Excel to transform it into a .csv format. I then adjusted the data to be entirely numerical. Previously the data contained text attributes but I adjusted each category to have numerical rankings as listed in the parentheses below. Our “species” are the classes.
 
 <pre>
 buying:   vhigh(4), high (3), med(2), low(1).
